@@ -2,6 +2,11 @@
 
 [![Build Status](https://secure.travis-ci.org/user/http.js.png?branch=master)](http://travis-ci.org/user/http.js)
 
+*** Yet another HTTP client for JavaScript. ***
+
+This just a little experiment to get me on with the habits of document, testing and well, getting stuff done.
+
+Feel free to nag-me-about/make-suggestions-on my coding style and such. I'd be pleased to listen to savvy JavaScripters like you. :)
 
 ## Installation
 
@@ -17,6 +22,8 @@ The component can be used as a Common JS module, an AMD module, or a global.
 ## API
 
 ### http.js()
+
+(PENDING)
 
 
 ## Testing
